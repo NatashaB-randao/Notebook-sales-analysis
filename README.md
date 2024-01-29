@@ -1,4 +1,4 @@
-# Notebook Sales Analysis Using SQL
+# Notebook Sales Analysis
 
 ## Análise de Especificações e Preços Mais Recentes de Laptops
 
